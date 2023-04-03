@@ -1,5 +1,19 @@
-https://priv.au is a website that hosts a range of services designed to enhance your privacy and security online.
+# priv.au
 
-These services include SearXNG, which enables you to search the internet without leaving behind any data, and Invidious, which allows you to watch YouTube videos without being tracked by Google.
+Welcome to the official GitHub organization for [priv.au](https://priv.au), a website dedicated to providing a range of services to enhance your online privacy and security.
 
-With priv.au, you can safeguard your personal information and enjoy a more secure browsing experience.
+## Services
+
+Our services currently include:
+
+### [SearXNG](https://priv.au/)
+
+![SearXNG Logo](https://priv.au/static/themes/simple/img/searxng.png)
+
+SearXNG is a powerful search engine that allows you to browse the internet without leaving behind any data. With SearXNG, you can enjoy a private search experience that keeps your personal information secure. 
+
+### [Invidious](https://vid.priv.au/)
+
+![Invidious Logo](https://redirect.invidious.io/static/img/invidious-logo-dark.svg)
+
+Invidious is a privacy-focused alternative to YouTube. With Invidious, you can watch YouTube videos without being tracked by Google. 
